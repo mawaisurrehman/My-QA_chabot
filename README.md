@@ -116,4 +116,4 @@ Add tests and CI as needed.
 
 ## License & Contributing
 
-Add a LICENSE file (e.g., MIT) if you want this repo to be open-source. Contributions are welcome — open issues or pull requests with improvements and tests.
+Contributions are welcome — open issues or pull requests with improvements and tests.
