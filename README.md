@@ -105,14 +105,20 @@ Add tests and CI as needed.
 - app.py                # main application (already present)
 - requirements.txt      # Python dependencies (provided)
 - README.md             # this file
-- .env.example          # optional example env file (optional)
-- data/                 # optional: any knowledge sources or assets
 
 ## Troubleshooting
 
 - If you see ValueError about `GROQ_API_KEY`, ensure the env var is set and accessible to the process that runs Python.
 - If model responses are empty or truncated, consider increasing `max_tokens`.
 - If the Groq client throws errors, check your API key, rate limits, and network connectivity.
+
+
+## ChatBot URL
+https://huggingface.co/spaces/awaisjutt23/my-qa-chatbot
+
+## Refrence Video
+![My-QA_chabot](./Video.mp4)
+
 
 ## License & Contributing
 
