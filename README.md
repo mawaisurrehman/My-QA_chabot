@@ -116,10 +116,6 @@ Add tests and CI as needed.
 ## ChatBot URL
 https://huggingface.co/spaces/awaisjutt23/my-qa-chatbot
 
-## Reference Video
-[Watch the reference video](./Video.mp4)
-
-
 ## License & Contributing
 
 Contributions are welcome — open issues or pull requests with improvements and tests.
